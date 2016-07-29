@@ -12,7 +12,7 @@ config = {
     'author_email': '{{ cookiecutter.author_email }}',
     'version': '0.1.0',
     'install_requires': ['nose'],
-    'packages': ['{{ cookiecutter.project_name }}'],
+    'packages': ['{{ cookiecutter.directory_name }}'],
     'scripts': [],
     'name': '{{ cookiecutter.project_name }}'
 }

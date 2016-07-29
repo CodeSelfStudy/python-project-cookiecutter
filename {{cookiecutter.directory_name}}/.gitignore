@@ -1,0 +1,10 @@
+# Editors
+*~
+*.sw[op]
+
+# Python
+*.py[oc]
+__pycache__/
+
+# Node
+node_modules/
